@@ -52,8 +52,8 @@ To run this application on your local machine, please follow these steps.
 ### 1\. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/saina25/AI-Resume-Analyser.git
+cd AI-Resume-Analyser
 ```
 
 ### 2\. Install Dependencies
