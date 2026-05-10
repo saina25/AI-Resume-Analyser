@@ -1,4 +1,4 @@
-# AI Resume Analyzer 🚀
+# AI Resume Analyzer
 
 An AI-powered resume analysis tool that evaluates how well a resume matches a job description using semantic similarity and Natural Language Processing (NLP).
 
@@ -8,14 +8,14 @@ Built with Python, Streamlit, and Sentence Transformers, the application provide
 
 # Features
 
-* 📄 Upload resumes in PDF format
-* 🧠 Semantic similarity matching using Sentence Transformers
-* 📊 Resume-job description match scoring
-* ✅ Detection of semantically matched requirements
-* ❌ Identification of weak or missing areas
-* 💡 Intelligent resume improvement suggestions
-* 📋 Structured recruiter-style analysis tables
-* ⚡ Interactive Streamlit web interface
+* Upload resumes in PDF format
+* Semantic similarity matching using Sentence Transformers
+* Resume-job description match scoring
+* Detection of semantically matched requirements
+* Identification of weak or missing areas
+* Intelligent resume improvement suggestions
+* Structured recruiter-style analysis tables
+* Interactive Streamlit web interface
 
 ---
 
